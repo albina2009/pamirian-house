@@ -23,7 +23,7 @@
           aliquid.</p>
         <NuxtLink to="/contact">
           <button class="mt-2 md:mt-5 p-3 px-5 bg-black text-white font-bold text-sm hover:bg-grey">Read
-            More</button>
+            more</button>
         </NuxtLink>
 
       </div>

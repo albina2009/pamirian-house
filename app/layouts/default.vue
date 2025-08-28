@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  $END$
+<Header/>
+  <slot/>
+  <Footer/>
 </template>
 
 <style scoped>
